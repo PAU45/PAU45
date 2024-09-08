@@ -18,7 +18,7 @@
 
 - :school: estudiando en [instituto de educación superior en Perú](https://www.tecsup.edu.pe)
 - :technologist: **actualmente trabajando como** `Frontend Development` 
-- :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
+- :boom: proximamente mi web [MY WEBSITE](###) 
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
 - :nerd_face: Always believe `"You are what you loved"`
 
