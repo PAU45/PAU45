@@ -19,7 +19,7 @@
 - :school: estudiando en [instituto de educación superior en Perú](https://www.tecsup.edu.pe)
 - :technologist: **actualmente trabajando como** `Frontend Development` 
 - :boom: proximamente mi web [MY WEBSITE](###) 
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](gmail:paulo.melendez@tecsup.edu.pe)
+- :gmail: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=PAU45&amp;color=EA4335&amp;style=flat-square)](gmail:paulo.melendez@tecsup.edu.pe)
 - :nerd_face: Always believe `"You are what you loved"`
 
 <br>
