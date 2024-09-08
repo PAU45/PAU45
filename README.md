@@ -7,7 +7,7 @@
   <ul>
     <summary><h1 style="display: inline-block;">Bienvenidos soy Paulo</h1></summary>
   </ul>
-  <img src="https://i.redd.it/czm49yw5lgo71.jpg">
+
 </div>
 
 <!--About Me-->
