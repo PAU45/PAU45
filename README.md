@@ -21,7 +21,7 @@
 - :boom: proximamente mi web [MY WEBSITE](###) 
 - 📧: cualquier cosa enviame por correo  [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=PAU45&amp;color=EA4335&amp;style=flat-square)](gmail:paulo.melendez@tecsup.edu.pe)
 - :nerd_face: Quien no arriesga, no gana.
-- :discord: ![Discord](https://img.shields.io/discord/:1102852847294492732)
+
 
 <br>
 
@@ -44,7 +44,6 @@
 
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 
 
