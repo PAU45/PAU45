@@ -7,6 +7,7 @@
   <ul>
     <summary><h1 style="display: inline-block;">Bienvenidos soy Paulo</h1></summary>
   </ul>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FTokyoRevengers%2Fcomments%2Fpr7kxk%2Fsome_icons_i_did_you_can_use_them_if_you_want_3%2F&psig=AOvVaw19l-KFhpD507UXWEFfL82_&ust=1725907064330000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCx_v_-s4gDFQAAAAAdAAAAABAE">
 </div>
 
 <!--About Me-->
